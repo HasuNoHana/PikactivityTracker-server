@@ -1,6 +1,8 @@
 
 # PikactivityTracker-server
-PikactivityTracker-server is backend part of an aplication that serves gathering statisics about your webside. To do so, webside must download library () and use it to deliver events regarding that side. You can than use this () to display results in a dashboard.
+PikactivityTracker-server is backend part of an aplication that serves gathering statisics about your webside. To do so, webside must download library (https://github.com/HasuNoHana/PikactivityTracker-library) and use it to deliver events regarding that side. You can than use this (https://github.com/HasuNoHana/PikactivityTracker-website) to display results in a dashboard.
+
+Project was realized in cooperation with Marcin Bąk (https://www.linkedin.com/in/marcinbak/) who work as Vice President in FICC Post Execution Automation at Goldman Sachs.
 
 Empty project was generated with use of https://start.spring.io/. We use Maven to deal with our dependencies and JUnit for testing. Jacoco is used as a stage in Maven to check the cover of tests.
 
